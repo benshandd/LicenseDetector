@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LicenseDetector",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "LicenseDetector::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LicenseDetector-Debug-98e0e2bc2cad0cfdc459.json",
+					"name" : "LicenseDetector",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/benshand/Library/CloudStorage/GoogleDrive-benjaminshand101@gmail.com/Other computers/PC/University/Personal Projects/LicenseDetector/cmake-build-debug",
+		"source" : "/Users/benshand/Library/CloudStorage/GoogleDrive-benjaminshand101@gmail.com/Other computers/PC/University/Personal Projects/LicenseDetector"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

@@ -1,0 +1,4 @@
+# ninja log v5
+0	39	1699323135306107766	build.ninja	1705e52f7f421117
+0	313	1699323135622353534	CMakeFiles/LicenseDetector.dir/main.cpp.o	81d89e6f4caf3cab
+314	346	1699323135657149305	LicenseDetector	e0a077112e017b5b

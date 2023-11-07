@@ -1,0 +1,3 @@
+/Users/benshand/Library/CloudStorage/GoogleDrive-benjaminshand101@gmail.com/Other computers/PC/University/Personal Projects/LicenseDetector/cmake-build-debug/CMakeFiles/LicenseDetector.dir
+/Users/benshand/Library/CloudStorage/GoogleDrive-benjaminshand101@gmail.com/Other computers/PC/University/Personal Projects/LicenseDetector/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/benshand/Library/CloudStorage/GoogleDrive-benjaminshand101@gmail.com/Other computers/PC/University/Personal Projects/LicenseDetector/cmake-build-debug/CMakeFiles/rebuild_cache.dir
